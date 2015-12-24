@@ -1,3 +1,6 @@
 name = DAB Primo Search
 description = DAB primo search box reports.
 core = 7.x
+
+dependencies[] = ctools
+dependencies[] = panels
