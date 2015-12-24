@@ -1,6 +1,12 @@
 <?php
 /**
  * @file
+ * Code for the DAB Primo Search feature.
+ */
+
+include_once 'dab_primo_search.features.inc';
+/**
+ * @file
  * Define ctools plugin for DAB search.
  */
 
